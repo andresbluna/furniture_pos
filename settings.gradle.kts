@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "POS_furniture"
 include(":app")
- 
